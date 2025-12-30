@@ -6,8 +6,6 @@ An AI-powered SaaS landing page designed to accelerate the software development 
 
 ⚡ Modern SaaS-style landing page
 
-🤖 AI-focused product messaging
-
 🎨 Clean & minimal UI using Tailwind CSS
 
 📱 Fully responsive (mobile, tablet, desktop)
@@ -28,7 +26,7 @@ HTML5
 
 📸 Preview
 
-Live Demo: 
+Live Demo: https://landingpage1-5etj6qmro-chandanpalariyas-projects.vercel.app/
 
 📂 Project Structure
 src/
@@ -81,7 +79,7 @@ Ability to create product-focused landing pages
 👨‍💻 Author
 
 Chandan
-Frontend Developer | React Enthusiast
+Full stack web Developer | React Enthusiast
 
 
 AI-powered SaaS landing page built with React.js and Tailwind CSS to accelerate developer workflows.
